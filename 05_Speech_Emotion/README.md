@@ -1,0 +1,1 @@
+# Speech Emotion Recognition using MFCC and SVM\n\nCreate folders such as dataset/happy and dataset/sad, then add labeled WAV recordings. Use a properly licensed dataset. Run `python main.py`.\n
